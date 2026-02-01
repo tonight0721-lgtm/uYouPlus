@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
-        default: ""
+        default: "https://github.com/thepbone/YouTube-iPA/releases/download/v19.02.2-2.1/YouTube_19.02.2_Decrypted.ipa"
         required: true
         type: string
       bundle_id:
